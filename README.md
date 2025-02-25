@@ -3,7 +3,7 @@
 
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm OUABANE Ayoub </h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ouabane-ayoub/" target="_blank" rel="noreferrer">Ayoub</a> is a passionate DevOps Engineer from Morocco, working on Cloud and DevOps for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ouabane-ayoub/" target="_blank" rel="noreferrer">Ayoub</a> is a passionate Software & DevOps Engineer from Morocco, working on Software and DevOps for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -17,20 +17,20 @@
 
 #### Programming Language Stack
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" 
-  height="40"/>  
+  <!--<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" 
+  height="40"/>  -->
   <img 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" 
   alt="python" title="python" width="40" height="40"/> 
-  <img 
+  <!--<img 
   src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" 
-  alt="groovy" title="groovy" width="40" height="40"/>  
+  alt="groovy" title="groovy" width="40" height="40"/>  -->
   <img 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" 
   alt="java" title="java8" width="40" height="40"/>  
-  <img 
+  <!--<img 
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" 
-  title="go" width="40" height="40"/> 
+  title="go" width="40" height="40"/> -->
 </p>
 
 #### OS Stack
@@ -58,7 +58,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p align="left">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" 
   height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> 
+  <!--<img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> -->
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" 
   height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" 
@@ -88,8 +88,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" 
   height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/>   
-  <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" 
-  height="40"/> 
+  <!--<img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" 
+  height="40"/> -->
   <img 
   src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" 
   alt="nginx" title="nginx" width="40" height="40"/>  
@@ -99,8 +99,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" 
   width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" 
-  height="40"/> 
+  <!--<img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" 
+  height="40"/> -->
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" 
   height="40"/> 
 </p>
@@ -109,8 +109,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" 
-  height="40"/>  
+  <!--<img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" 
+  height="40"/>  -->
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" 
   height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
@@ -129,6 +129,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
+<!-- 💬 Ask me about **DevOps**-->
 - 📫 How to reach me **[ouabaneayoubb@gmail.com](mailto:ouabaneayoubb@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
